@@ -7,7 +7,7 @@ Me chamo Tempone, moro em Juiz de Fora - MG. Faço lives na [Twitch](http://www.
 * **Name:** Gustavo Tempone de Oliveira Faria
 * **Age:** 24 
 * **Living** Juiz de Fora - MG
-* **Stack** HTML - Git - CSS - JavaScript 
+* **Stack** - JavaScript 
 
 ## Curiosidades 
 
