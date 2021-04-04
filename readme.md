@@ -1,6 +1,6 @@
 ## Informações básicas
 
-Me chamo Tempone, moro em Juiz de Fora - MG. Faço lives na [Twitch](http://www.twitch.tv/temppone) e também trabalho com [fotografia](http://www.gustavotempone.com).
+Me chamo Tempone, moro em Juiz de Fora - MG. Trabalho com fotografia e estou aprendendo JavaScript.
 
 ## Informações específicas
 
@@ -11,4 +11,4 @@ Me chamo Tempone, moro em Juiz de Fora - MG. Faço lives na [Twitch](http://www.
 
 ## Curiosidades 
 
-* Jogador profissional de aram
+* Cozinheiro profssional de receitas do YouTube
