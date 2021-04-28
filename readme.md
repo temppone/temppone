@@ -13,4 +13,4 @@ Me chamo Tempone, moro em Juiz de Fora - MG. Sou fotógrafo e estou diariamente 
 
 * Cozinheiro profssional de receitas do YouTube
 * Jogador de aram
-* Streamer na [Twitch](twitch.tv/temppone)
+* Streamer na [Twitch](https://www.twitch.tv/temppone)
