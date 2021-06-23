@@ -4,7 +4,7 @@ Me chamo Tempone, moro em Juiz de Fora - MG. Sou fotógrafo e estou diariamente 
 
 ## Informações específicas
 
-* **Name:** Gustavo Tempone de Oliveira Faria
+* **Name:** Gustavo Tempone 
 * **Age:** 24 
 * **Living** Juiz de Fora - MG
 * **Stack** - JavaScript, React
