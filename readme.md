@@ -1,12 +1,11 @@
 ## Informações básicas
 
-Me chamo Tempone, moro em Juiz de Fora - MG. Sou fotógrafo e estou diariamente aprendendo React e JavaScript.
+Me chamo Tempone. 
 
 ## Informações específicas
 
 * **Name:** Gustavo Tempone 
 * **Age:** 24 
-* **Living** Juiz de Fora - MG
 * **Stack** - JavaScript, React
 
 ## Curiosidades 
