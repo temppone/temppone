@@ -6,7 +6,7 @@ Me chamo Tempone.
 
 * **Name:** Gustavo Tempone 
 * **Age:** 24 
-* **Stack** - JavaScript, React
+* **Stack** - JavaScript, TypeScript, React
 
 ## Curiosidades 
 
