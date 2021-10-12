@@ -10,7 +10,7 @@ Me chamo Tempone.
 
 ## Curiosidades 
 
-* Cozinheiro profssional de receitas do YouTube
+* Cozinheiro profissional de receitas do YouTube
 * Jogador de aram
 * Profissional em tomar susto
 * Streamer na [Twitch](https://www.twitch.tv/temppone)
