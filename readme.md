@@ -13,4 +13,4 @@ Me chamo Tempone.
 * Cozinheiro profissional de receitas do YouTube
 * Jogador de aram
 * Profissional em tomar susto
-* Streamer na [Twitch](https://www.twitch.tv/temppone)
+* [Fotógrafo](www.gustavotempone.com)
