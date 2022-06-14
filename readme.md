@@ -11,6 +11,5 @@ Me chamo Tempone.
 ## Curiosidades 
 
 * Cozinheiro profissional de receitas do YouTube
-* Jogador de aram
 * Profissional em tomar susto
-* [Fotógrafo](https://www.gustavotempone.com)
+
