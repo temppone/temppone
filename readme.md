@@ -5,7 +5,7 @@ Me chamo Tempone.
 ## Informações específicas
 
 * **Name:** Gustavo Tempone 
-* **Stack** - Typescript + React
+* **Stack** - Typescript + React + node
 
 ## Curiosidades 
 
